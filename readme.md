@@ -1,6 +1,6 @@
 # Intro to App Building with Salesforce
 
-Slides and materials are hosted at [http://girldevelopit.github.io/gdi-salesforce](http://girldevelopit.github.io/gdi-salesforce).
+Slides and materials are hosted at [gdicbus.github.io/gdi-salesforce/](gdicbus.github.io/gdi-salesforce/).
 
 ## About this course
 
@@ -8,7 +8,7 @@ Class is 6 hours of content + 45 minutes lunch and a 10 min afternoon break.
 
 ## Course description
 
-Interested in an in-demand career with salaries up to six-figures? The job market for Salesforce professionals is growing, with over 100,000 job openings for the Salesforce skills created last year*. In this class, you'll get a crash course in building simple employee-facing business apps that run on both a web browser and a mobile device - without writing any code! 
+Interested in an in-demand career with salaries up to six-figures? The job market for Salesforce professionals is growing, with over 100,000 job openings for the Salesforce skills created last year*. In this class, you'll get a crash course in building simple employee-facing business apps that run on both a web browser and a mobile device - without writing any code!
 
 Whether you’re familiar with Salesforce from your work experience or are just looking for a career in a hot field, join us to learn about app-building on Salesforce.
 
@@ -28,7 +28,7 @@ Whether you’re familiar with Salesforce from your work experience or are just 
 
 The tools for learning to develop with Salesforce are free:
 
- - [Developer Edition account](https://developer.salesforce.com/signup) 
+ - [Developer Edition account](https://developer.salesforce.com/signup)
 
  - Salesforce1 Mobile App (AppStore and Google Play)
 
@@ -36,25 +36,6 @@ The tools for learning to develop with Salesforce are free:
 
 
 [![Trailhead Video](http://img.youtube.com/vi/LIefFBi-lHw/0.jpg)](https://youtu.be/LIefFBi-lHw)
-
-
-**Cost:** 
-
-**Dates:** 
-
-**Location:** 
-
-A limited number of scholarships are available for those with a financial hardship. To apply, contact us at...
-
-
-### Prerequisites:
-
-Students should be fairly familiar with using internet and mobile applications and Googling for answers to all of life’s questions. You do not need any prior Salesforce experience and do not need a Salesforce license. 
-
-### Tech requirements:
-
-Please bring a laptop, not an iPad/tablet. The visual development tools only run on modern browsers (Chrome, Firefox, Safari, Internet Explorer 9 or later).
-
 
 ## For Instructors:
 
