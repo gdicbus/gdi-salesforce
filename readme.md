@@ -1,6 +1,6 @@
 # Intro to App Building with Salesforce
 
-Slides and materials are hosted at [gdicbus.github.io/gdi-salesforce/](gdicbus.github.io/gdi-salesforce/).
+Slides and materials are hosted at [http://gdicbus.github.io/gdi-salesforce/](http://gdicbus.github.io/gdi-salesforce/).
 
 ## About this course
 
@@ -61,3 +61,6 @@ Open browser tabs with:
 
 NEW Feb 2017: Lightning Experience is on by default in new DE and Trailhead Playground orgs; Battle Station project requires Lightning Experience on
 
+### Post-Class Survey:
+
+GDI HQ is collecting survey results for this classes, and will share the results with us. Send students [to this address](https://docs.google.com/forms/d/e/1FAIpQLSfGgjy5f8GhiOCq-Agg0lw3YPTOaLR-YhNW2fS29i8N48wvhg/viewform) to fill out the survey.
